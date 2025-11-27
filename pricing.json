@@ -1,0 +1,68 @@
+{
+  "resumo": "Planos pensados para cada fase da loja, do início ao nível profissional.",
+  "faturamento": {
+    "periodos": ["mensal", "anual"]
+  },
+  "planos": [
+    {
+      "nome": "Free",
+      "tagline": "Comece com dados reais",
+      "preco": 0,
+      "moeda": "$",
+      "periodo": "mês",
+      "limite_pedidos": "Até 50 pedidos",
+      "inclui": [
+        "Dashboard de rentabilidade",
+        "Integração TN + Shopify + Meta",
+        "Cálculo automático de custos",
+        "Histórico ilimitado",
+        "Suporte por email"
+      ]
+    },
+    {
+      "nome": "Growth",
+      "tagline": "Para quem quer crescer",
+      "preco": 19,
+      "moeda": "$",
+      "periodo": "mês",
+      "limite_pedidos": "Até 300 pedidos",
+      "inclui": [
+        "Tudo do Free",
+        "Controle do Meta Ads integrado",
+        "Pixel Track IA",
+        "True ROAS vs ROAS Meta",
+        "Suporte prioritário"
+      ]
+    },
+    {
+      "nome": "Scale",
+      "tagline": "Escale o negócio com clareza",
+      "preco": 49,
+      "moeda": "$",
+      "periodo": "mês",
+      "limite_pedidos": "Até 900 pedidos",
+      "inclui": [
+        "Tudo do Growth",
+        "Integração Mercado Livre",
+        "Cashflow detalhado",
+        "Suporte prioritário"
+      ]
+    },
+    {
+      "nome": "Pro",
+      "tagline": "Controle total da operação",
+      "preco": 99,
+      "moeda": "$",
+      "periodo": "mês",
+      "limite_pedidos": "Ilimitado",
+      "inclui": [
+        "Tudo do Scale",
+        "Google Ads + TikTok Ads",
+        "Análises de coorte e LTV",
+        "Consultoria mensal",
+        "Suporte WhatsApp 24/7",
+        "Acesso antecipado a features"
+      ]
+    }
+  ]
+}
