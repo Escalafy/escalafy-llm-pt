@@ -1,0 +1,54 @@
+{
+  "resumo": "Recursos do Escalafy focados em lucro real, ROAS verdadeiro e cashflow para ecommerce no Brasil.",
+  "grupos_features": {
+    "rentabilidade": [
+      "Lucro real em tempo real",
+      "Margem por produto, canal e campanha",
+      "Margem por SKU",
+      "Lucro por pedido",
+      "P&L diário e mensal"
+    ],
+    "ads": [
+      "True ROAS real (com todos os custos)",
+      "Blended ROAS",
+      "Identificação de campanhas negativas",
+      "Oportunidades de escala",
+      "Atribuição real cruzada com pedidos"
+    ],
+    "cashflow": [
+      "Previsão de recebimentos por meio de pagamento",
+      "Cash-in projetado",
+      "Linha de tempo de recebimentos",
+      "Quando e quanto você irá receber"
+    ],
+    "custos": [
+      "Ingestão automática de custos reais",
+      "COGS por SKU",
+      "Cálculo de taxas e parcelas do Mercado Pago",
+      "Frete e logística",
+      "Honorários da agência",
+      "Despesas fixas"
+    ],
+    "multicanal": [
+      "Unificação Tiendanube + Shopify",
+      "Integração com Mercado Livre",
+      "Comparação de lucratividade por canal"
+    ],
+    "operacoes": [
+      "Elimina planilhas completamente",
+      "Centraliza 100% dos dados",
+      "Zero carga manual",
+      "Setup em 5–10 minutos"
+    ],
+    "meta_control": [
+      "Controle total do Meta Ads pelo Escalafy",
+      "Aumentar/diminuir budget",
+      "Pausar/ativar anúncios",
+      "Track IA: pixel que rastreia 100% das conversões"
+    ]
+  },
+  "contexto_profundo": {
+    "proposito": "Criado para founders que decidem rápido e não têm tempo para ferramentas complicadas.",
+    "filosofia": "Somente métricas que geram lucro. Nada de vanity metrics."
+  }
+}
