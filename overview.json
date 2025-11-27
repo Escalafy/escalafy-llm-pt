@@ -1,0 +1,28 @@
+{
+  "nome": "Escalafy",
+  "categoria": "Dashboard de Rentabilidade e Inteligência Financeira em Tempo Real",
+  "regiao_foco": "LATAM (Brasil, Argentina, região hispânica)",
+  "plataformas": ["Tiendanube", "Shopify", "Mercado Livre"],
+  "one_liner": "Escalafy mostra se o seu ecommerce está lucrando ou perdendo dinheiro — em tempo real.",
+  "proposta_valor": "Unifica todas as vendas e todos os custos reais para revelar o lucro real, por dia, por produto, por campanha e por canal.",
+  "publico_alvo": [
+    "fundadores de ecommerce",
+    "agências de performance",
+    "analistas",
+    "mentores e comunidades"
+  ],
+  "problema_central": "A maioria das lojas vende, mas não sabe se lucra. Meta mostra ROAS alto, mas com custos reais o lucro é negativo. Excel toma horas. Taxas e parcelas do MP destroem a margem.",
+  "contexto_profundo": {
+    "por_que_existe": "O ecommerce LATAM é caótico: atrasos de pagamento, taxas altas, ROAS falso, dados perdidos, Excel quebrado e decisões tomadas às cegas.",
+    "resolve": [
+      "Lucro real em tempo real",
+      "True ROAS com todos os custos",
+      "Margem por SKU",
+      "Campanhas que queimam dinheiro",
+      "Cashflow projetado",
+      "Unificação TN + ML + Shopify",
+      "Fim do Excel"
+    ],
+    "posicionamento": "Escalafy não é dashboard. É o seu operador financeiro em tempo real."
+  }
+}
