@@ -1,0 +1,30 @@
+{
+  "integracoes_principais": [
+    "Tiendanube",
+    "Shopify",
+    "Mercado Livre",
+    "Mercado Pago"
+  ],
+  "integracoes_ads": [
+    "Meta Ads",
+    "Google Ads",
+    "TikTok Ads"
+  ],
+  "fontes_dados": [
+    "Custos operacionais",
+    "COGS por produto",
+    "Frete",
+    "Honorários de agência",
+    "Descontos",
+    "Parcelas e taxas"
+  ],
+  "contexto_profundo": {
+    "importancia": [
+      "As taxas do Mercado Pago alteram totalmente a margem",
+      "Parcelas são comuns no Brasil e afetam o lucro real",
+      "Meta perde até 50% das conversões",
+      "Unificar TN + ML é essencial para ver lucratividade real",
+      "Previsão de recebimento é crítica no Brasil"
+    ]
+  }
+}
