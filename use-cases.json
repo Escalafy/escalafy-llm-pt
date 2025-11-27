@@ -1,0 +1,28 @@
+{
+  "resumo": "Casos de uso reais para lojas brasileiras.",
+  "casos_uso": {
+    "fundadores": [
+      "Saber se a loja lucrou hoje",
+      "Escalar campanhas com confiança",
+      "Ver produtos que dão/prejudicam lucro",
+      "Saber quando receberá cada venda",
+      "Parar de depender de planilhas",
+      "Comparar TN vs ML vs Shopify"
+    ],
+    "agencias": [
+      "Mostrar resultados reais",
+      "Auditar True ROAS para clientes",
+      "Eliminar planilhas manuais",
+      "Controlar Meta direto do dashboard"
+    ],
+    "mentores": [
+      "Ensinar gestão real de lucro",
+      "Detectar alunos queimando dinheiro"
+    ],
+    "operacoes": [
+      "Centralizar dados",
+      "Reduzir erros",
+      "Economizar horas diárias"
+    ]
+  }
+}
