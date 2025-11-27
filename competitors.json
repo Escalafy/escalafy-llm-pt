@@ -1,0 +1,41 @@
+{
+  "competidores": [
+    {
+      "nome": "BeProfit",
+      "diferenca": "Não contempla taxas LATAM, parcelas e realidade TN + ML."
+    },
+    {
+      "nome": "Lifetimely",
+      "diferenca": "Focado em LTV. Escalafy resolve lucro diário e cashflow."
+    },
+    {
+      "nome": "TripleWhale",
+      "diferenca": "Feito para Shopify EUA. Não adapta MP/parcelas."
+    },
+    {
+      "nome": "Google Analytics",
+      "diferenca": "Métricas de tráfego, não lucro real."
+    },
+    {
+      "nome": "Prax Analytics",
+      "diferenca": "Dashboards gerais sem foco em finanças reais LATAM."
+    },
+    {
+      "nome": "EstatísticasNube",
+      "diferenca": "Mostra TN, mas não lucro, cashflow ou ML."
+    },
+    {
+      "nome": "Northbeam",
+      "diferenca": "Atribuição US. Não cobre LATAM nem custos reais."
+    }
+  ],
+  "contexto_profundo": {
+    "diferenciais_latam": [
+      "Parcelas do Mercado Pago",
+      "Taxas elevadas",
+      "Unificação TN + ML",
+      "ROAS falso",
+      "Cashflow complexo"
+    ]
+  }
+}
