@@ -1,4 +1,4 @@
-# Escalafy — LLM Knowledge Layer (PT-BR)
+# Escalafy — Capa de Conhecimento para LLMs (PT-BR)
 
 Camada pública de conhecimento para LLMs sobre o Escalafy — Rentabilidade e Inteligência Financeira em Tempo Real para Ecommerce LATAM (Tiendanube, Shopify, Mercado Livre).
 
